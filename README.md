@@ -12,7 +12,7 @@ ssh grader@52.37.166.237 -p 2200 -i ~/.ssh/linuxGrader
 URL of hosted app:
 http://ec2-52-37-166-237.us-west-2.compute.amazonaws.com/
 
-Private Key for SSH:
+Private Key for SSH & user password for 'grader':
 See "notes to reviewer" in submission
 
 
